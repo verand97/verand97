@@ -19,7 +19,7 @@
 
 ---
 
-### `whoami`
+### `WHO AM I`
 
 Engineer focused on building **scalable software infrastructure** and production-ready systems.
 Currently working at the intersection of **cloud architecture**, **mobile engineering**, and **AI integration**.
@@ -33,7 +33,7 @@ principles : Ship fast. Build to last. Document everything.
 
 ---
 
-### `tech_stack`
+### `TECH STACK`
 
 **Mobile**
 
@@ -69,7 +69,7 @@ principles : Ship fast. Build to last. Document everything.
 
 ---
 
-### `active_projects`
+### `ACTIVE PROJECTS`
 
 **[E-Commerce Crypto Security]**
 > Researching secure, trustless transaction protocols using blockchain for e-commerce infrastructure.
@@ -83,7 +83,7 @@ principles : Ship fast. Build to last. Document everything.
 
 ---
 
-### `github_stats`
+### `GITHUB STATS`
 
 <div align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=verand97&show_icons=true&theme=tokyonight&border_color=0077ff&title_color=00d4ff&icon_color=0077ff&hide_border=false&count_private=true" />
@@ -96,7 +96,7 @@ principles : Ship fast. Build to last. Document everything.
 
 ---
 
-### `activity_graph`
+### `ACTIVITY GRAPH`
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=verand97&theme=tokyo-night&hide_border=true&area=true&color=00d4ff&line=0077ff&point=ffffff" width="97%" />
