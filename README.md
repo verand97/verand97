@@ -11,8 +11,8 @@
 
 **Software Engineer · Tech Architect · Indonesia**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/GANTI_DENGAN_LINKEDIN_KAMU)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:veramaofficial@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-verand97-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/verand97)
 
 </div>
@@ -86,12 +86,12 @@ principles : Ship fast. Build to last. Document everything.
 ### `GITHUB STATS`
 
 <div align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=verand97&show_icons=true&theme=tokyonight&border_color=0077ff&title_color=00d4ff&icon_color=0077ff&hide_border=false&count_private=true" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verand97&layout=compact&theme=tokyonight&border_color=0077ff&title_color=00d4ff&hide_border=false" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=verand97&show_icons=true&theme=tokyonight&border_color=0077ff&title_color=00d4ff&icon_color=0077ff&hide_border=false&count_private=true" alt="verand97's GitHub Stats" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verand97&layout=compact&theme=tokyonight&border_color=0077ff&title_color=00d4ff&hide_border=false" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=verand97&theme=tokyonight&border=0077ff&stroke=0077ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=verand97&theme=tokyonight&border=0077ff&stroke=0077ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="97%" alt="GitHub Streak Stats" />
 </div>
 
 ---
@@ -99,7 +99,7 @@ principles : Ship fast. Build to last. Document everything.
 ### `ACTIVITY GRAPH`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=verand97&theme=tokyo-night&hide_border=true&area=true&color=00d4ff&line=0077ff&point=ffffff" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=verand97&theme=tokyo-night&hide_border=true&area=true&color=00d4ff&line=0077ff&point=ffffff" width="97%" alt="Activity Graph" />
 </div>
 
 ---
