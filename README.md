@@ -21,7 +21,7 @@
 
 ### `WHO AM I`
 
-**A passionate Software Engineer and Tech Architect from Indonesia who thrives on "vibes coding"—turning pure intuition, caffeine, and raw focus into working production-ready systems. I specialize in building scalable software infrastructure, cloud architecture, and AI integration without overthinking the process, just shipping fast**.
+**A passionate Software Engineer and Tech Architect from Indonesia who thrives on "vibes coding" turning pure intuition, caffeine, and raw focus into working production-ready systems. I specialize in building scalable software infrastructure, cloud architecture, and AI integration without overthinking the process, just shipping fast**.
 
 ```yaml
 location   : Indonesia  [Digital Node: 127.0.0.1]
